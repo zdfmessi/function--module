@@ -24,15 +24,8 @@
   <files xmlns="http://www.xilinx.com/XMLSchema">
     <file xil_pn:fileType="FILE_ASY" xil_pn:name="axir_asymmetric_fifo1.asy" xil_pn:origination="imported"/>
     <file xil_pn:fileType="FILE_VEO" xil_pn:name="axir_asymmetric_fifo1.veo" xil_pn:origination="imported"/>
-    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="ipcore_dir/axir_asymmetric_fifo1.sym" xil_pn:origination="imported"/>
-    <file xil_pn:fileType="FILE_LOG" xil_pn:name="ipcore_dir/coregen.log"/>
   </files>
 
-  <transforms xmlns="http://www.xilinx.com/XMLSchema">
-    <transform xil_pn:name="TRAN_SubProjectAbstractToPreProxy">
-      <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
-    </transform>
-  </transforms>
+  <transforms xmlns="http://www.xilinx.com/XMLSchema"/>
 
 </generated_project>
